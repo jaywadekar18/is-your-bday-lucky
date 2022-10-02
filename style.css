@@ -1,7 +1,9 @@
-@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
 body {
   text-align: center;
-  font-family: "Satisfy", cursive;
+  font-family: 'Rubik', sans-serif;
+  
 }
 main{
   padding: 10px;
@@ -11,13 +13,14 @@ input {
   margin: 10px auto;
   width: 200px;
   border-radius: 5px;
-  padding: 10px;
-  
+  padding: 20px;
+  margin-bottom: 40px;
 }
 nav {
   padding: 20px;
   background-color: pink;
   font-size: 40px;
+  font-family: 'Permanent Marker', cursive;
 }
 .customButton {
   background-color: pink;
